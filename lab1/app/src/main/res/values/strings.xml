@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="ok">OK</string>
+    <string name="from">Від</string>
+    <string name="to">До</string>
+    <string name="time">Вдень</string>
+    <string name="time2">Вночі</string>
+
+</resources>
